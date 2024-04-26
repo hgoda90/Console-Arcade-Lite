@@ -11,4 +11,4 @@ DO_GLOBAL_SHZO = "1.000000"
 	GLOBAL_OFFY = "-0.026000"
 	GLOBAL_ZOOM = "0.737000"
 
-bg_over = "../../images/mbz.png"
+bg_over = "../../images/mbz/1_dim.png"
