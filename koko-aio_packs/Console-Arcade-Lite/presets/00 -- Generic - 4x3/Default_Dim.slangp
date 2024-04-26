@@ -4,6 +4,7 @@ DO_BEZEL = "0.000000"
 
 DO_BG_IMAGE = "1.000000"
 	BG_IMAGE_OVER = "1.000000"
+	BG_IMAGE_NIGHTIFY = "0.300000"
 
 DO_SPOT = "0.000000"
 
@@ -11,4 +12,4 @@ DO_GLOBAL_SHZO = "1.000000"
 	GLOBAL_OFFY = "-0.026000"
 	GLOBAL_ZOOM = "0.737000"
 
-bg_over = "../../images/mbz/1_dim.png"
+bg_over = "../../images/generic/1.png"

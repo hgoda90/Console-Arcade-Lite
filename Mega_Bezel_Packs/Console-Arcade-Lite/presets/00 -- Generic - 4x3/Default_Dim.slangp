@@ -7,4 +7,4 @@
 	HSM_SCREEN_POSITION_Y = "27.000000"
 
 [MEGA BEZEL IMAGES]:
-	BackgroundImage = "../../images/mbz/1_dim.png"
+	BackgroundImage = "../../images/generic/2_dim.png"

@@ -17,16 +17,22 @@ Download images folder and one of the preset or overlay cfg folders
 ## overlays
 
 - Place overlays folder over RetroArch folder  
-- Put images folder's contents inside of console-arcade-lite folder
+- Put images folder inside of console-arcade-lite folder
 
  -- Settings
 
 <pre>
 4x3
 ---------------------------
-1080p: 432, 116, 1056, 798  
-1440p: 580, 156, 1404, 1054  
-2160p: 864, 234, 2110, 1586  
+1080p: 432, 116, 1056, 798
+1440p: 580, 156, 1404, 1054
+2160p: 864, 234, 2110, 1586
+
+16x9
+--------------------------
+1080p: 140, 32, 1642, 928
+1440p: 186, 42, 2190, 1236
+2160p: 280, 62, 3280, 1856
 </pre>
 
 ![overlays](demo/overlay.png)
