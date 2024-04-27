@@ -33,6 +33,12 @@ Download images folder and one of the preset or overlay cfg folders
 1080p: 140, 32, 1642, 928
 1440p: 186, 42, 2190, 1236
 2160p: 280, 62, 3280, 1856
+
+Vertical
+----------------------------
+1080p: 664, 114, 594, 790
+1440p: 886, 152, 788, 1052
+2160p: 1330, 230, 1182, 1576
 </pre>
 
 ![overlays](demo/overlay.png)
