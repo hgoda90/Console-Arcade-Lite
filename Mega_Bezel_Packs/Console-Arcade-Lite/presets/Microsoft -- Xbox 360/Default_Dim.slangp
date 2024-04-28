@@ -1,0 +1,19 @@
+#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__5__POTATO__GDV.slangp"
+
+[ASPECT RATIO]:
+	HSM_ASPECT_RATIO_MODE = "4.000000"
+
+[NON-INTEGER SCALE PERCENT]:
+	HSM_NON_INTEGER_SCALE = "85.600000"
+
+[POSITION OFFSET]:
+	HSM_SCREEN_POSITION_Y = "42.000000"
+
+[SCANLINES & INTERLACING (By Guest.r)]:
+	no_scanlines = "1.000000"
+
+[CURVATURE]:
+	HSM_CURVATURE_MODE = "0.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../images/xb360/1_dim.png"
