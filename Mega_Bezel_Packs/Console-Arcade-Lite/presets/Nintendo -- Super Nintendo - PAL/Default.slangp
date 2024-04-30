@@ -1,0 +1,10 @@
+#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__5__POTATO__GDV.slangp"
+
+[NON-INTEGER SCALE PERCENT]:
+	HSM_NON_INTEGER_SCALE = "73.400000"
+
+[POSITION OFFSET]:
+	HSM_SCREEN_POSITION_Y = "27.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../images/snes/2.png"
